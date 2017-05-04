@@ -1,0 +1,2 @@
+avatar_url: "https://secure.gravatar.com/avatar"
+VALID_EMAIL_REGEX: !ruby/regexp /\A[\w+\-.]+@[a-z\d\-.]+\.[a-z]+\z/i
