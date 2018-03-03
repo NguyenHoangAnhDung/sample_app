@@ -16,6 +16,8 @@ gem "turbolinks", "~> 5"
 gem "jbuilder", "~> 2.5"
 gem "dotenv-rails"
 gem "pry"
+gem "devise_token_auth"
+gem "omniauth"
 gem "rack-cors"
 
 group :development, :test do
